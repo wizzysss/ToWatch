@@ -1,0 +1,13 @@
+.Header{
+    height: 200px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(9,9,121,0.6561461794019934) 0%, rgba(0,212,255,1) 100%);
+    padding-top: 50px;   
+}
+h1.title{
+    font-family:monospace;
+    color:azure;
+}
+button.btn{
+    font-family:monospace;
+    font-weight: bold;
+}
