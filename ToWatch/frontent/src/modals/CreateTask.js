@@ -12,7 +12,7 @@ const CreateTask = ({modal,toggle,save}) => {
  }else{
   setDescription(value)
  }
-  }
+}
 
 
   const handleSave = () => {

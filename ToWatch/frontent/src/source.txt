@@ -1,0 +1,11 @@
+source from the youtube video
+
+PART 1
+https://youtu.be/TZ933D_RB8E
+
+PART 2
+https://youtu.be/BkSco__Jpx8
+
+
+reactstrap for components
+https://reactstrap.github.io/
